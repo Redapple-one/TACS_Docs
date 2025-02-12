@@ -1,5 +1,5 @@
 site_name: TACS Docs
-site_url: https://docs.tacserver.cn
+site_url: https://docs.tacserver.com
 copyright: Copyright &copy; 2023 - 2025 TACS. All rights reserved.
 theme:
   logo: assets/logo.svg
@@ -57,4 +57,4 @@ markdown_extensions:
 extra:
   social:
     - icon: material/web
-      link: https://tacserver.cn/
+      link: https://tacserver.com/
