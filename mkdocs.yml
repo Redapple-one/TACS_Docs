@@ -1,0 +1,60 @@
+site_name: TACS Docs
+site_url: https://docs.tacserver.cn
+copyright: Copyright &copy; 2023 - 2025 TACS. All rights reserved.
+theme:
+  logo: assets/logo.svg
+  favicon: assets/logo.svg
+  language: zh
+  name: material
+  features:
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.instant.progress
+    - navigation.tabs
+    - navigation.path
+    - navigation.footer
+    - navigation.indexes
+    - navigation.tracking
+
+  palette:
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      primary: indigo
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      primary: indigo
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      primary: indigo
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+plugins:
+  - literate-nav: # https://github.com/oprypin/mkdocs-literate-nav
+      nav_file: SUMMARY.md
+extra_css:
+  - stylesheets/extra.css
+markdown_extensions:
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - toc:
+      permalink: true
+
+extra:
+  social:
+    - icon: material/web
+      link: https://tacserver.cn/

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://docs.tacserver.cn/</loc>
+         <lastmod>2025-02-08</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.tacserver.cn/SUMMARY/</loc>
+         <lastmod>2025-02-08</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.tacserver.cn/TACS_Skin/</loc>
+         <lastmod>2025-02-08</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.tacserver.cn/fakeplayer/</loc>
+         <lastmod>2025-02-08</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.tacserver.cn/sponsor/</loc>
+         <lastmod>2025-02-08</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.tacserver.cn/manual/beginning/</loc>
+         <lastmod>2025-02-08</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.tacserver.cn/manual/features/</loc>
+         <lastmod>2025-02-08</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.tacserver.cn/manual/hacking/</loc>
+         <lastmod>2025-02-08</lastmod>
+    </url>
+</urlset>
