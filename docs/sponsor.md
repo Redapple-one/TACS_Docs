@@ -4,7 +4,7 @@
 * NotMyerrzz 155.4元（微信）+一台阿里云服务器+一台雨云服务器+一台亚洲云服务器+OSS备份存储桶+tac-server.top域名(1USD)+redapple-one.top域名(1.88USD)+服务器所有内网穿透服务器
 * mashirokaka 391.79元（微信）
 * TianzeAlche 250元（微信）
-* zzfx1166 50.00元（支付宝）
+* zzfx1166 50.00元（支付宝）+NatGo内网穿透服务
 * An_ancient_ 33.00元（微信）
 * Dragyouyoudeer 30.00元（微信）
 * lazycat 20.00元（微信）
