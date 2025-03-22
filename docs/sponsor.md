@@ -31,4 +31,4 @@
 
 并且你可以选择加入TACS股东群：991510756
 
-![赞助图片](../assets/Sponsor.png)
+![赞助图片](./assets/Sponsorship.png)
