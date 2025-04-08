@@ -1,13 +1,13 @@
 # 赞助者名单
 * Night_and_Light 服务器早期所使用的13600KF的VPS云服务器+14900K的VPS云服务器
 * Gotoueijirou 提供物理机机房及Sakura FRP账号
-* NotMyerrzz 155.4元（微信）+一台阿里云服务器+一台雨云服务器+一台亚洲云服务器+OSS备份存储桶+tac-server.top域名(1USD)+redapple-one.top域名(1.88USD)+服务器所有内网穿透服务器
 * zzfx1166 1000.00元（支付宝）+NatGo内网穿透服务
+* NotMyerrzz 155.4元（微信）+一台阿里云服务器+一台雨云服务器+一台亚洲云服务器+OSS备份存储桶+tac-server.top域名(1USD)+redapple-one.top域名(1.88USD)+服务器所有内网穿透服务器
 * mashirokaka 391.79元（微信）
 * TianzeAlche 269元（微信）
 * MySQLdisappoint 150.00元（支付宝）
 * Dragyouyoudeer 45.00元（微信）
-* An_ancient_ 33.00元（微信）
+* An_ancient_ 126.08元（微信）
 * Tomlancy 30.00元（支付宝）
 * Mrwang1145 25.00元（微信）
 * lazycat 20.00元（微信）
