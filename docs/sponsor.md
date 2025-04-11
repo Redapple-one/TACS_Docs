@@ -14,6 +14,7 @@
 * Sam11235 15.00元（微信）
 * MOIS 15.00元（爱发电）
 * WIN_HORROR 15.00元（微信）
+* Katarina_123 15.00元（微信）
 * Squallxiaobo 10.00元（微信）
 * yang_shu 10.00元（微信）
 * Sakura_Xuan 5.00元（微信）
