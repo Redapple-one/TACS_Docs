@@ -11,6 +11,7 @@
 * Tomlancy 30.00元（支付宝）
 * Mrwang1145 25.00元（微信）
 * lazycat 20.00元（微信）
+* evolution 20.00元（微信）
 * Sam11235 15.00元（微信）
 * MOIS 15.00元（爱发电）
 * WIN_HORROR 15.00元（微信）
