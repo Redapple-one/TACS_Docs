@@ -6,6 +6,7 @@
 * mashirokaka 391.79元（微信）
 * TianzeAlche 269元（微信）
 * MySQLdisappoint 150.00元（支付宝）
+* wangyupu 50.00元（支付宝）+ 100.00元（微信）
 * Dragyouyoudeer 45.00元（微信）
 * An_ancient_ 126.08元（微信）
 * Tomlancy 30.00元（支付宝）
