@@ -3,6 +3,11 @@
 
 为了防止小号, 目前仅支持QQ邮箱注册, 每个账号仅允许拥有一个游戏内角色名
 
+!!! info "皮肤站通过Cloudflare Tunnel运行"
+    由于Cloudflare的环大陆CDN, 国内可访问性极低
+    
+    **请打开梯子访问此网页**
+
 ## 注册<a id="注册"></a>
 前往[注册页面](https://skin.tacserver.cn/auth/register), 如果一切正常, 你会看到以下页面
 ![注册皮肤站](./assets/register.png)

@@ -5,17 +5,12 @@
 
 **TACS**, 中文名为**茶水晶服务器**, 全称``Tea Amethyst Craft Server``
 
-服务器于2023年暑假开服, 当前版本为``Fabric 1.21.3``, 首任服主为鱼不当(yubudangmc), 第二任服主为红苹果(Redapple_one)
+服务器于2023年暑假开服, 当前版本为``Fabric 1.21.4``, 首任服主为鱼不当(yubudangmc), 第二任服主为红苹果(Redapple_one)
 
-目前服务器运行在物理机上, 由**Intel® Core™ i5-13600K**强力驱动, 配备了32G 3200Mhz的内存, 使用风冷(12CM 2000转*5把)散热
+目前服务器运行在物理机上, 由**Intel® Core™ i5-13600K**强力驱动, 配备了32G 3200Mhz的内存, 使用B60T双塔风冷散热, 外加机箱风扇12025 2000转*6把
 
 ## 官方人员
 * Redapple_one 服主
-* NotMyerrzz 网络服主
-* Gotou Eijirou 物理服主
-* mashirokaka 审核员
-* TianzeAlche 审核员
-* mitiska233 审核员
 
 ## 入服须知
 - 本服务器为白名单制, 在群内可以自助绑定白名单, 一个QQ号绑定一个白名单, 退群自动解绑

@@ -15,13 +15,13 @@
 
 ## 创造服
 > 进入命令:``/server creative``
-> 额外模组: WorldEdit
+> 额外模组: WorldEdit, Axiom
 
 玻璃超平坦存档, 方便玩家研究机器
 
 ## 镜像服
 > 进入命令:``/server mirror``
-> 额外模组: WorldEdit
+> 额外模组: WorldEdit, Axiom
 
 方便玩家在实装大型机器前进行测试
 
