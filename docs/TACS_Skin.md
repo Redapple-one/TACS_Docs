@@ -24,7 +24,7 @@
 > 游戏内角色名就是游戏内你所使用的 ID：
 >
 > <img src="./assets/IGN.png" alt="游戏 ID 示例" width="400"/>
->
+> <br>
 > <img src="./assets/IGN2.png" alt="游戏 ID 示例" width="400"/>
 
 > [!WARNING]
