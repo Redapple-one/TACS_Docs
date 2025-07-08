@@ -106,12 +106,14 @@
 
 # 关于赞助
 
-<p align="center" style="line-height: 3;">您的赞助是我们进行下去的最大动力。<br>
-本服务器施行无偿赞助制度，<br>
-<b>每一笔赞助都会用于服务器软硬件或运营成本上。</b></p>
+<br><p align="center">您的赞助是我们进行下去的最大动力。</p>
+
+<p align="center">本服务器施行无偿赞助制度，</p>
+
+<p align="center"><b>每一笔赞助都会用于服务器软硬件或运营成本上。</b></p><br>
 
 在赞助后，你的游戏 ID 会被登记到上文的赞助者名单上（所以请务必备注你的游戏 ID）。
 
 并且你可以选择加入 TACS 股东群：`991510756`。
 
-![Sponsor QR Code](./assets/Sponsorship.png)
+![赞助码](./assets/Sponsorship.png)
