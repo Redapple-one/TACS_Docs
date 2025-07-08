@@ -1,26 +1,42 @@
-# Welcome to TACS!!!
-![TACS壁纸](./assets/wallpaper.png)
+<h1 align="center">Welcome to TACS!</h1>
+
+![TACS Banner](./assets/wallpaper.png)
 
 ## 基本信息
 
-**TACS**, 中文名为**茶水晶服务器**, 全称``Tea Amethyst Craft Server``
+*TACS*（`Tea Amethyst Craft Server`），中文译作*茶水晶服务器*。
 
-服务器于2023年暑假开服, 当前版本为``Fabric 1.21.4``, 首任服主为鱼不当(yubudangmc), 第二任服主为红苹果(Redapple_one)
+服务器于 2023 年暑假开服，当前版本为 [Fabric 1.21.4](https://fabricmc.net/2024/12/02/1214.html)，首任服主为鱼不当（`yubudangmc`），第二任服主为红苹果（`Redapple_one`）。
 
-目前服务器运行在物理机上, 由**Intel® Core™ i5-13600K**强力驱动, 配备了32G 3200Mhz的内存, 使用B60T双塔风冷散热, 外加机箱风扇12025 2000转*6把
+<details><summary>目前服务器运行在物理机上，配置：</summary><ul><br>
+<li>i5-13600K</li>
+<li>32GB DDR4 RAM</li>
+<li>B60T Dual-tower 260W TDP</li>
+<li>12025 Case Fan 2000 RPM * 6</li>
+</ul></details>
 
 ## 官方人员
-* Redapple_one 服主
+
+|职位|ID|
+|:-:|:--|
+|服主|`Redapple_one`|
 
 ## 入服须知
-- 本服务器为白名单制, 在群内可以自助绑定白名单, 一个QQ号绑定一个白名单, 退群自动解绑
-- 本服务器为国际版(非网易版) 所以如果你玩的是这个:![网易版](./assets/wy.png) 请不要再问"网易版能不能玩", "房间号是多少"
-- 本服务器是生电服, 所有附加玩法均为生电服务, 连锁挖矿? 精英怪? 想都别想
-- 本服务器虽然没有严格的反作弊, 但这并不是你开挂的理由, 我们对于开挂玩家**零容忍**, **发现即永ban**
-- 本服务器支持以下下两种入服方式: **正版** **TACS皮肤站** 详细操作方式请看后文
-- 服务器种子请在服内使用/seed命令查看
 
-!!! warning "禁止名称以"bot_"开头的玩家入服"
-    服内召唤的假人都会带上一个"bot_"前缀
+> [!NOTE]
+>
+> 本服务器为国际版，非网易版。如果你玩的是这个：<br><img src="/docs/assets/wy.png" alt="Netease Minecraft" width="400"/><br>请不要问“网易版能不能玩”、“房间号是多少”。
 
-    此举的目的是为了防止玩家召唤同名假人
+> [!CAUTION]
+>
+> 本服务器虽然没有严格的反作弊，但这并不是你开挂的理由。**我们对于开挂玩家零容忍，发现即永 Ban。**
+
+- 本服务器为白名单制，在群内可以自助绑定白名单，一个 QQ 号绑定一个白名单，退群自动解绑。
+- 本服务器是生电服，所有附加玩法均为生电服务。连锁挖矿？精英怪？想都别想。
+- 本服务器支持以下下两种入服方式：*正版*或 *TACS 皮肤站*，详细操作方式请看后文。
+- 服务器种子请在服内使用`/seed`命令查看。
+
+> [!WARNING]
+>
+> 以防玩家与 Bot 重名，禁止以`bot_`开头 ID 的玩家入服。  
+> 服内召唤的假人都会带上一个`bot_`前缀。
