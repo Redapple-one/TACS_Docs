@@ -25,7 +25,11 @@
 
 > [!NOTE]
 >
-> 本服务器为国际版，非网易版。如果你玩的是这个：<br><img src="/docs/assets/wy.png" alt="Netease Minecraft" width="400"/><br>请不要问“网易版能不能玩”、“房间号是多少”。
+> 本服务器为国际版，非网易版。如果你玩的是这个：
+>
+> <img src="./assets/wy.png" alt="Netease Minecraft" width="400"/>
+>
+> 请不要问“网易版能不能玩”、“房间号是多少”。
 
 > [!CAUTION]
 >
