@@ -4,11 +4,8 @@
 
 为了防止小号，目前仅支持 QQ 邮箱注册，每个账号仅允许拥有一个游戏内角色名。
 
-> [!NOTE]
->
-> 皮肤站通过 Cloudflare Tunnel 运行。
->
-> 由于 Cloudflare 的环大陆 CDN，部分地区可访问性极低，故请使用特定网络访问此网站。
+!!! info inline "皮肤站通过 Cloudflare Tunnel 运行"
+    由于 Cloudflare 的环大陆 CDN，部分地区可访问性极低，故请使用特定网络访问此网站。
 
 ## 注册
 
@@ -18,22 +15,14 @@
 
 填入所有信息后点击右下角的注册按钮，完成注册。
 
-> [!NOTE]
-> 什么是“游戏内角色名”？
->
-> 游戏内角色名就是游戏内你所使用的 ID：
->
-> <img src="./assets/IGN.png" alt="游戏 ID 示例" width="400"/>
-> <br>
-> <img src="./assets/IGN2.png" alt="游戏 ID 示例" width="400"/>
+!!! info inline "什么是“游戏内角色名”？"
+    游戏内角色名就是游戏内你所使用的 ID：
+    <img src="./assets/IGN.png" alt="游戏 ID 示例" width="400"/><br>
+    <img src="./assets/IGN2.png" alt="游戏 ID 示例" width="400"/>
 
-> [!WARNING]
->
-> 禁止恶意模仿其他玩家名字！
->
-> 例如使用大写的`I`和小写的`l`：
->
-> *Redapp**l**e_one*, *Redapp**I**e_one*
+!!! warning "禁止恶意模仿其他玩家名字！"
+    例如使用大写的`I`和小写的`l`：
+    *Redapp**l**e_one*, *Redapp**I**e_one*
 
 ## 验证邮箱
 
@@ -69,7 +58,6 @@
 
 大功告成！现在你可以使用 TACS 皮肤站登录进入服务器了！
 
-> [!NOTE]
->
-> 如果你是根据开篇中的“对于无正版玩家”的提示来注册 TACS 皮肤站，  
-> 请返回[开篇](./manual/beginning.md)并完成剩余操作。
+!!! info inline "可能还有…"
+    如果你是根据开篇中的“对于无正版玩家”的提示来注册 TACS 皮肤站，  
+    请返回[开篇](./manual/beginning.md)并完成剩余操作。
