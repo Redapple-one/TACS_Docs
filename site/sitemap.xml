@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://docs.tacserver.com/</loc>
-         <lastmod>2025-03-15</lastmod>
+         <loc>https://tacs-docs.netlify.app/</loc>
+         <lastmod>2025-07-19</lastmod>
     </url>
     <url>
-         <loc>https://docs.tacserver.com/SUMMARY/</loc>
-         <lastmod>2025-03-15</lastmod>
+         <loc>https://tacs-docs.netlify.app/SUMMARY/</loc>
+         <lastmod>2025-07-19</lastmod>
     </url>
     <url>
-         <loc>https://docs.tacserver.com/TACS_Skin/</loc>
-         <lastmod>2025-03-15</lastmod>
+         <loc>https://tacs-docs.netlify.app/TACS_Skin/</loc>
+         <lastmod>2025-07-19</lastmod>
     </url>
     <url>
-         <loc>https://docs.tacserver.com/fakeplayer/</loc>
-         <lastmod>2025-03-15</lastmod>
+         <loc>https://tacs-docs.netlify.app/fakeplayer/</loc>
+         <lastmod>2025-07-19</lastmod>
     </url>
     <url>
-         <loc>https://docs.tacserver.com/sponsor/</loc>
-         <lastmod>2025-03-15</lastmod>
+         <loc>https://tacs-docs.netlify.app/sponsor/</loc>
+         <lastmod>2025-07-19</lastmod>
     </url>
     <url>
-         <loc>https://docs.tacserver.com/manual/beginning/</loc>
-         <lastmod>2025-03-15</lastmod>
+         <loc>https://tacs-docs.netlify.app/manual/beginning/</loc>
+         <lastmod>2025-07-19</lastmod>
     </url>
     <url>
-         <loc>https://docs.tacserver.com/manual/features/</loc>
-         <lastmod>2025-03-15</lastmod>
+         <loc>https://tacs-docs.netlify.app/manual/features/</loc>
+         <lastmod>2025-07-19</lastmod>
     </url>
     <url>
-         <loc>https://docs.tacserver.com/manual/hacking/</loc>
-         <lastmod>2025-03-15</lastmod>
+         <loc>https://tacs-docs.netlify.app/manual/hacking/</loc>
+         <lastmod>2025-07-19</lastmod>
     </url>
     <url>
-         <loc>https://docs.tacserver.com/manual/multi_server/</loc>
-         <lastmod>2025-03-15</lastmod>
+         <loc>https://tacs-docs.netlify.app/manual/multi_server/</loc>
+         <lastmod>2025-07-19</lastmod>
     </url>
 </urlset>

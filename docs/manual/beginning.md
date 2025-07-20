@@ -1,7 +1,7 @@
 !!! warning "对于无正版玩家"
     **服务器不支持离线账号**
     
-    请离线玩家先查阅[注册TACS皮肤站](../TACS_Skin.md)文档, 获取你的TACS皮肤站账号, 注册完成后再返回此文章
+    请离线玩家先使用LittleSkin登录, [教程](https://manual.littlesk.in/yggdrasil/authlib-injector), B站上也有相关教程.
 
 当你通过 视频, 朋友推荐, 线下宣传, ~~服主托梦~~ 等方式听说到TACS的时候, 腐竹(Redapple_one)已经给你留下了简洁且快速的入服方式, 请往下看
 
@@ -29,7 +29,7 @@ IPv4和IPv6的IP都会在群公告里面公布 **获取最新IP请查看群公�
 
 ## 获取白名单
 ### 获取绑定指令
-使用你的账号<small>(TACS皮肤站账号, 正版账号)</small>进入服务器
+使用你的账号<small>(LittleSkin皮肤站账号, 正版账号)</small>进入服务器
 > 视频内的服务器ip仅供参考 获取最新ip请查看群公告
 <video controls src="../../assets/join_server.mp4" title="进入服务器"></video>
 
