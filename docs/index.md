@@ -1,6 +1,6 @@
 <h1 align="center" style="font-weight: bold; color: white">Welcome to TACS!</h1>
 
-![TACS Banner](./assets/wallpaper.png)
+![TACS Banner](https://img.fastmirror.net/s/2025/04/24/680a35427c983.png)
 
 ## 基本信息
 
