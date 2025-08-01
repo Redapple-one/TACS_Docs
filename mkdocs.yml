@@ -1,5 +1,5 @@
 site_name: TACS Docs
-site_url: https://tacs-docs.netlify.app
+site_url: https://docs.tacserver.cn
 copyright: Copyright &copy; 2023 - 2025 TACS. All rights reserved.
 theme:
   logo: assets/logo.svg
