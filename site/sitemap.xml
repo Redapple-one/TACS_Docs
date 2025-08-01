@@ -1,39 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://tacs-docs.netlify.app/</loc>
-         <lastmod>2025-07-19</lastmod>
+         <loc>https://docs.tacserver.cn/</loc>
+         <lastmod>2025-08-01</lastmod>
     </url>
     <url>
-         <loc>https://tacs-docs.netlify.app/SUMMARY/</loc>
-         <lastmod>2025-07-19</lastmod>
+         <loc>https://docs.tacserver.cn/SUMMARY/</loc>
+         <lastmod>2025-08-01</lastmod>
     </url>
     <url>
-         <loc>https://tacs-docs.netlify.app/TACS_Skin/</loc>
-         <lastmod>2025-07-19</lastmod>
+         <loc>https://docs.tacserver.cn/fakeplayer/</loc>
+         <lastmod>2025-08-01</lastmod>
     </url>
     <url>
-         <loc>https://tacs-docs.netlify.app/fakeplayer/</loc>
-         <lastmod>2025-07-19</lastmod>
+         <loc>https://docs.tacserver.cn/sponsor/</loc>
+         <lastmod>2025-08-01</lastmod>
     </url>
     <url>
-         <loc>https://tacs-docs.netlify.app/sponsor/</loc>
-         <lastmod>2025-07-19</lastmod>
+         <loc>https://docs.tacserver.cn/manual/beginning/</loc>
+         <lastmod>2025-08-01</lastmod>
     </url>
     <url>
-         <loc>https://tacs-docs.netlify.app/manual/beginning/</loc>
-         <lastmod>2025-07-19</lastmod>
+         <loc>https://docs.tacserver.cn/manual/features/</loc>
+         <lastmod>2025-08-01</lastmod>
     </url>
     <url>
-         <loc>https://tacs-docs.netlify.app/manual/features/</loc>
-         <lastmod>2025-07-19</lastmod>
+         <loc>https://docs.tacserver.cn/manual/hacking/</loc>
+         <lastmod>2025-08-01</lastmod>
     </url>
     <url>
-         <loc>https://tacs-docs.netlify.app/manual/hacking/</loc>
-         <lastmod>2025-07-19</lastmod>
-    </url>
-    <url>
-         <loc>https://tacs-docs.netlify.app/manual/multi_server/</loc>
-         <lastmod>2025-07-19</lastmod>
+         <loc>https://docs.tacserver.cn/manual/multi_server/</loc>
+         <lastmod>2025-08-01</lastmod>
     </url>
 </urlset>
